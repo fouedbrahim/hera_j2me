@@ -1,0 +1,9 @@
+MIDlet-1: MidletAjout, , gestionDeEvents.MidletAjout
+MIDlet-2: MidletParsingXml1, ,gestionDeEvents.MidletParsingXml
+MIDlet-Jar-Size: 7950
+MIDlet-Jar-URL: hera_j2me.jar
+MIDlet-Name: hera_j2me
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
